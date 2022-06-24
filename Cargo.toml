@@ -1,0 +1,7 @@
+[package]
+name = "lnl-rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Rick Burta <rick@rickburta.ca>"]
+
+[dependencies]
